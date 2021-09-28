@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scoped_img_storage_kotlin_android</string>
+    <string name="app_save">Save</string>
+</resources>
